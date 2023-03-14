@@ -43,9 +43,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "XellBot" //namabot kalian
 global.ownername = "Xell" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.myweb = "instabio.cc/rhmtprofile" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@RhmtEditz" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
+global.myweb2 = "https://www.instagram.com/reel/CpuD8S2jNJX/?igshid=YmMyMTA2M2Y=" //bebas
 global.email = "rahmatxell@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib

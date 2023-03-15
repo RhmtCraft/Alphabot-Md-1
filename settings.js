@@ -6,7 +6,7 @@ const {
    spanyol
 } = require(`./language`)
 
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
@@ -15,7 +15,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'HjNDIQ8LKAfz3h7', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
 edit sewabot di file settings.js line 19
@@ -55,10 +55,10 @@ global.ownernomer = "6283867149253" // nomor wa kalian
 global.ownernomerr = "+6283867149253"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/446bcc19cf76c9dd4eb37f9dd7823189.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
+global.background_welcome = "https://telegra.ph/file/0c48347e99a9f7b581aa9.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = 'https://telegra.ph/file/f3bb59a1abc5916c64019.mp4'
 global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.author = 'ywdh sih ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'templateImage' //
